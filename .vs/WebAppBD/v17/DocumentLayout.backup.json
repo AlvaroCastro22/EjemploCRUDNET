@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alvar\\source\\repos\\WebAppBD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E79E3993-C3C3-4C56-AFB9-A3BBBB2ACE8B}|WebAppBD.csproj|c:\\users\\alvar\\source\\repos\\webappbd\\views\\categoria\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E79E3993-C3C3-4C56-AFB9-A3BBBB2ACE8B}|WebAppBD.csproj|solutionrelative:views\\categoria\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E79E3993-C3C3-4C56-AFB9-A3BBBB2ACE8B}|WebAppBD.csproj|c:\\users\\alvar\\source\\repos\\webappbd\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E79E3993-C3C3-4C56-AFB9-A3BBBB2ACE8B}|WebAppBD.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E79E3993-C3C3-4C56-AFB9-A3BBBB2ACE8B}|WebAppBD.csproj|c:\\users\\alvar\\source\\repos\\webappbd\\migrations\\20241002205449_crearbd01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E79E3993-C3C3-4C56-AFB9-A3BBBB2ACE8B}|WebAppBD.csproj|solutionrelative:migrations\\20241002205449_crearbd01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E79E3993-C3C3-4C56-AFB9-A3BBBB2ACE8B}|WebAppBD.csproj|c:\\users\\alvar\\source\\repos\\webappbd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E79E3993-C3C3-4C56-AFB9-A3BBBB2ACE8B}|WebAppBD.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E79E3993-C3C3-4C56-AFB9-A3BBBB2ACE8B}|WebAppBD.csproj|c:\\users\\alvar\\source\\repos\\webappbd\\views\\categoria\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E79E3993-C3C3-4C56-AFB9-A3BBBB2ACE8B}|WebAppBD.csproj|solutionrelative:views\\categoria\\editar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E79E3993-C3C3-4C56-AFB9-A3BBBB2ACE8B}|WebAppBD.csproj|c:\\users\\alvar\\source\\repos\\webappbd\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E79E3993-C3C3-4C56-AFB9-A3BBBB2ACE8B}|WebAppBD.csproj|solutionrelative:controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E79E3993-C3C3-4C56-AFB9-A3BBBB2ACE8B}|WebAppBD.csproj|c:\\users\\alvar\\source\\repos\\webappbd\\views\\categoria\\registrarcategoria.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E79E3993-C3C3-4C56-AFB9-A3BBBB2ACE8B}|WebAppBD.csproj|solutionrelative:views\\categoria\\registrarcategoria.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E79E3993-C3C3-4C56-AFB9-A3BBBB2ACE8B}|WebAppBD.csproj|c:\\users\\alvar\\source\\repos\\webappbd\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E79E3993-C3C3-4C56-AFB9-A3BBBB2ACE8B}|WebAppBD.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E79E3993-C3C3-4C56-AFB9-A3BBBB2ACE8B}|WebAppBD.csproj|c:\\users\\alvar\\source\\repos\\webappbd\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E79E3993-C3C3-4C56-AFB9-A3BBBB2ACE8B}|WebAppBD.csproj|solutionrelative:models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E79E3993-C3C3-4C56-AFB9-A3BBBB2ACE8B}|WebAppBD.csproj|c:\\users\\alvar\\source\\repos\\webappbd\\datos\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E79E3993-C3C3-4C56-AFB9-A3BBBB2ACE8B}|WebAppBD.csproj|solutionrelative:datos\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E79E3993-C3C3-4C56-AFB9-A3BBBB2ACE8B}|WebAppBD.csproj|c:\\users\\alvar\\source\\repos\\webappbd\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E79E3993-C3C3-4C56-AFB9-A3BBBB2ACE8B}|WebAppBD.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20241002205449_CrearBD01.cs",
+              "DocumentMoniker": "C:\\Users\\alvar\\source\\repos\\WebAppBD\\Migrations\\20241002205449_CrearBD01.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241002205449_CrearBD01.cs",
+              "ToolTip": "C:\\Users\\alvar\\source\\repos\\WebAppBD\\Migrations\\20241002205449_CrearBD01.cs",
+              "RelativeToolTip": "Migrations\\20241002205449_CrearBD01.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T20:54:50.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Editar.cshtml",
+              "DocumentMoniker": "C:\\Users\\alvar\\source\\repos\\WebAppBD\\Views\\Categoria\\Editar.cshtml",
+              "RelativeDocumentMoniker": "Views\\Categoria\\Editar.cshtml",
+              "ToolTip": "C:\\Users\\alvar\\source\\repos\\WebAppBD\\Views\\Categoria\\Editar.cshtml",
+              "RelativeToolTip": "Views\\Categoria\\Editar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T19:57:31.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoriaController.cs",
+              "DocumentMoniker": "C:\\Users\\alvar\\source\\repos\\WebAppBD\\Controllers\\CategoriaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoriaController.cs",
+              "ToolTip": "C:\\Users\\alvar\\source\\repos\\WebAppBD\\Controllers\\CategoriaController.cs",
+              "RelativeToolTip": "Controllers\\CategoriaController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAswD0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T04:56:25.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\alvar\\source\\repos\\WebAppBD\\Views\\Categoria\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Categoria\\Index.cshtml",
+              "ToolTip": "C:\\Users\\alvar\\source\\repos\\WebAppBD\\Views\\Categoria\\Index.cshtml",
+              "RelativeToolTip": "Views\\Categoria\\Index.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T18:03:33.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\alvar\\source\\repos\\WebAppBD\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\alvar\\source\\repos\\WebAppBD\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T17:35:08.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\alvar\\source\\repos\\WebAppBD\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "Models\\Categoria.cs",
+              "ToolTip": "C:\\Users\\alvar\\source\\repos\\WebAppBD\\Models\\Categoria.cs",
+              "RelativeToolTip": "Models\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T04:14:25.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\alvar\\source\\repos\\WebAppBD\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\alvar\\source\\repos\\WebAppBD\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-02T04:34:47.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\alvar\\source\\repos\\WebAppBD\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\alvar\\source\\repos\\WebAppBD\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAACIAAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T18:43:37.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alvar\\source\\repos\\WebAppBD\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\alvar\\source\\repos\\WebAppBD\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T04:29:07.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegistrarCategoria.cshtml",
+              "DocumentMoniker": "C:\\Users\\alvar\\source\\repos\\WebAppBD\\Views\\Categoria\\RegistrarCategoria.cshtml",
+              "RelativeDocumentMoniker": "Views\\Categoria\\RegistrarCategoria.cshtml",
+              "ToolTip": "C:\\Users\\alvar\\source\\repos\\WebAppBD\\Views\\Categoria\\RegistrarCategoria.cshtml",
+              "RelativeToolTip": "Views\\Categoria\\RegistrarCategoria.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-02T19:45:14.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\alvar\\source\\repos\\WebAppBD\\Datos\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Datos\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\alvar\\source\\repos\\WebAppBD\\Datos\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Datos\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T04:18:55.548Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
